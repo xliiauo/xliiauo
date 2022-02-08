@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am x[l](https://github.com/xliiauo)i[i](https://github.com/xliiauo)a[u](https://github.com/xliiauo)o. Thanks for dropping by!
+# Hi there 👋
+I am Xiao /ʃaʊ/. Thanks for dropping by!
 
 <!--
 **xliiauo/xliiauo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
